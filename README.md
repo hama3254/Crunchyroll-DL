@@ -9,6 +9,10 @@ Android application that allows you to download anime from the crunchyroll site.
 2) Retrieve link from playlist or video
 3) Infinitely download all your favorite anime
 
+## Info
+ - Version: 1.3.0
+ - Package name: com.nashi.crunchyroid
+
 -----------------
 
 *This application was created by the [__Hama3254__](https://github.com/hama3254) & [__Nashi Team__](https://discord.com/invite/g6JzYbh).  
